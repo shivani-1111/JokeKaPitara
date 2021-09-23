@@ -56,11 +56,11 @@ body {
 
 @media (min-device-width: 320px) and (max-device-width: 500px) {
     .caption{
-        padding-top: 60px;
+        padding-top: 138px;
         font-size: 28px;
     }
     .joke {
-       margin: 142px 82px;
+       margin: 12px 72px 82px;
         font-size: 65px;
     }
     .btn{

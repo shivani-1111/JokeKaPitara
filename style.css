@@ -53,3 +53,19 @@ body {
     background: white;
     color: #B79546;
 }
+
+@media (min-device-width: 320px) and (max-device-width: 500px) {
+    .caption{
+        padding-top: 60px;
+        font-size: 28px;
+    }
+    .joke {
+       margin: 142px 82px;
+        font-size: 65px;
+    }
+    .btn{
+        padding: 25px 48px;
+        font-size: 36px;
+        margin-bottom: 78px;
+    }
+}

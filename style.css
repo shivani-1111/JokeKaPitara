@@ -55,17 +55,20 @@ body {
 }
 
 @media (min-device-width: 320px) and (max-device-width: 500px) {
+    .container {
+        width: 19rem;
+    }
     .caption{
-        padding-top: 138px;
-        font-size: 28px;
+        padding-top: 46px;
+        font-size: 10px;
     }
     .joke {
-       margin: 12px 72px 82px;
-        font-size: 65px;
+           margin: 12px 72px 66px;
+           font-size: 22px;
     }
     .btn{
-        padding: 25px 48px;
-        font-size: 36px;
-        margin-bottom: 78px;
+       padding: 17px 33px;
+        font-size: 14px;
+        margin-bottom: 58px;
     }
 }

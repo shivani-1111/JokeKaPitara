@@ -57,17 +57,18 @@ body {
 @media (min-device-width: 320px) and (max-device-width: 500px) {
     .container {
         width: 19rem;
+        margin: 70px auto;
     }
     .caption{
         padding-top: 46px;
         font-size: 10px;
     }
     .joke {
-           margin: 12px 72px 66px;
+           margin: 12px 18px 66px;
            font-size: 22px;
     }
     .btn{
-       padding: 17px 33px;
+       padding: 12px 23px;
         font-size: 14px;
         margin-bottom: 58px;
     }

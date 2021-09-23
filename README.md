@@ -11,10 +11,14 @@ Links
 Built with
 What I learned
 Continued development
+Goal
 Author
 
 
-Overview
+<br>
+<b>Overview</b>
+
+<br>
 <b>The challenge</b>
 
 Users should be able to:
@@ -24,22 +28,39 @@ On page load new joke must appear.
 Whenever there is delay in fetching jokes a default message must be given to user instructing about status.
 
 
-Links
-Solution URL: [https://github.com/shivani-1111/stats-preview-card-component]
-Live Site URL: [https://shivani-1111.github.io/stats-preview-card-component/]
-Built with
+<br>
+<b>Links</b>
+Solution URL: [https://github.com/shivani-1111/JokeKaPitara]
+Live Site URL: [https://shivani-1111.github.io/JokeKaPitara]
+
+<br>
+<b>Built with<b>
 Semantic HTML5 markup
 CSS custom properties
-Flexbox
 CSS Grid
 Mobile-first workflow
-For styles
-What I learned
-I learned flexbox and SASS. This project is completely made on flexbox and sass.
+Promises
+async fetch
+ajax
+API
 
-Continued development
-In my future projects i'll keep using flexfox and sass untill i am excellent in this. Next goal would be making project on react.
+<br>
+  <b>What I learned</b>
+a. What is Promises
+b. How to use fetch in promises
+c. async await 
+d. try and catch method
+e. async functions
 
-Author
+<br>
+  <b>Continued development</b>
+Making more projects using asyn await and api's. 
+
+<br>
+  <b>Goal</b>
+  Working on react 
+
+<br>
+  <b>Author</b>
 Website - SHIVANI
 Frontend Mentor - @shivani-1111
